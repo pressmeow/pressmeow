@@ -18,14 +18,14 @@
 
 <a id="island" href="#island"><img src="assets/island.svg?v=5e668786" width="100%" alt="My island"/></a>
 
-<a id="pet" href="#pet"><img src="assets/pet.svg?v=3bdcd92d" width="100%" alt="iyyko the pet, fed by my commits and by you"/></a>
+<a id="pet" href="#pet"><img src="assets/pet.svg?v=524b9d23" width="100%" alt="iyyko the pet, fed by my commits and by you"/></a>
 <p align="center">
 <a href="https://github.com/pressmeow/pressmeow/issues/new?title=pet%3A%20feed%20%F0%9F%90%9F&body=Just%20press%20**Create**%20%E2%80%94%20a%20bot%20does%20the%20rest%20and%20closes%20this%20issue.%20%F0%9F%90%B1"><img src="assets/btn-feed.svg?v=7d36c4ff" width="190" alt="Feed iyyko"/></a>
 <a href="https://github.com/pressmeow/pressmeow/issues/new?title=pet%3A%20play%20%F0%9F%A7%B6&body=Just%20press%20**Create**%20%E2%80%94%20a%20bot%20does%20the%20rest%20and%20closes%20this%20issue.%20%F0%9F%90%B1"><img src="assets/btn-play.svg?v=5192d851" width="190" alt="Play with iyyko"/></a>
 <a href="https://github.com/pressmeow/pressmeow/issues/new?title=pet%3A%20pat%20%E2%9C%8B&body=Just%20press%20**Create**%20%E2%80%94%20a%20bot%20does%20the%20rest%20and%20closes%20this%20issue.%20%F0%9F%90%B1"><img src="assets/btn-pat.svg?v=2135a1e5" width="190" alt="Pet iyyko"/></a>
 </p>
 
-<a id="fortune" href="#fortune"><img src="assets/fortune.svg?v=2add768c" width="100%" alt="Today's fortune from iyyko"/></a>
+<a id="fortune" href="#fortune"><img src="assets/fortune.svg?v=32009934" width="100%" alt="Today's fortune from iyyko"/></a>
 
 <a id="ttt" href="#ttt"><img src="assets/ttt/start.svg?v=d4fb8e82" width="100%" alt="YOU ARE X. TAP A SQUARE!"/></a>
 <p align="center">
