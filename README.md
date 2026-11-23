@@ -16,9 +16,9 @@
 
 <a href="https://pressmeow.github.io/blog/"><img src="assets/notes.svg?v=66d72fd3" width="100%" alt="Latest notes on my blog"/></a>
 
-<a id="island" href="#island"><img src="assets/island.svg?v=9b34721f" width="100%" alt="My island"/></a>
+<a id="island" href="#island"><img src="assets/island.svg?v=274e8eb7" width="100%" alt="My island"/></a>
 
-<a id="pet" href="#pet"><img src="assets/pet.svg?v=2e438095" width="100%" alt="iyyko the pet, fed by my commits and by you"/></a>
+<a id="pet" href="#pet"><img src="assets/pet.svg?v=b88c6c5e" width="100%" alt="iyyko the pet, fed by my commits and by you"/></a>
 <p align="center">
 <a href="https://github.com/pressmeow/pressmeow/issues/new?title=pet%3A%20feed%20%F0%9F%90%9F&body=Just%20press%20**Create**%20%E2%80%94%20a%20bot%20does%20the%20rest%20and%20closes%20this%20issue.%20%F0%9F%90%B1"><img src="assets/btn-feed.svg?v=7d36c4ff" width="190" alt="Feed iyyko"/></a>
 <a href="https://github.com/pressmeow/pressmeow/issues/new?title=pet%3A%20play%20%F0%9F%A7%B6&body=Just%20press%20**Create**%20%E2%80%94%20a%20bot%20does%20the%20rest%20and%20closes%20this%20issue.%20%F0%9F%90%B1"><img src="assets/btn-play.svg?v=5192d851" width="190" alt="Play with iyyko"/></a>
