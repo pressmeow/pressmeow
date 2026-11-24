@@ -22,7 +22,7 @@ const localNow = () =>
 const centerText = (s, y, u, color, w = W) => text(s, Math.round((w - textWidth(s) * u) / 2 / u), y, u, color).svg;
 
 const SITE = "https://pressmeow.github.io";
-const LINKEDIN = "https://www.linkedin.com/in/gain-nam-557a61430/";
+const LINKEDIN = "https://www.linkedin.com/in/nami-nam/";
 const APPS = [
   { id: "isleday", name: "Isleday", desc: "Small habits grow a pixel island", chips: [["SITE", "https://isleday.app"], ["IOS", "https://apps.apple.com/app/isleday/id6816646663"]] },
   { id: "tuttiday", name: "tuttiday", desc: "Band rehearsals, set in one vote", chips: [["IOS", "https://apps.apple.com/kr/app/tuttiday/id6818943301"], ["ANDROID", "https://play.google.com/store/apps/details?id=com.tuttiday.app"], ["WEB", "https://tuttiday.com"]] },
