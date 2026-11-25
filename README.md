@@ -1,5 +1,5 @@
 <a id="hi" href="#hi"><img src="assets/header.svg?v=9ea46f25" width="100%" alt="Press start: apps for the little moments of your day"/></a>
-<a id="about" href="#about"><img src="assets/idcard.svg?v=d06f8f6d" width="100%" alt="ID card"/></a>
+<a id="about" href="#about"><img src="assets/idcard.svg?v=749e2bb0" width="100%" alt="ID card"/></a>
 <p align="center"><a href="https://pressmeow.github.io"><img src="assets/btn-website.svg?v=d2778e65" width="190" alt="Website"/></a> <a href="https://www.linkedin.com/in/nami-nam/"><img src="assets/btn-linkedin.svg?v=94423ad5" width="190" alt="LinkedIn"/></a></p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 <a href="https://goldenhour-timezones.vercel.app"><img src="assets/chip-ourhour-site.svg?v=742df43d" width="12%" alt="Ourhour site"/></a><a href="https://testflight.apple.com/join/1Yh1QZCH"><img src="assets/chip-ourhour-beta.svg?v=4dd2db63" width="12%" alt="Ourhour ios beta"/></a>
 </p>
 
-<a href="https://pressmeow.github.io/blog/"><img src="assets/notes.svg?v=66d72fd3" width="100%" alt="Latest notes on my blog"/></a>
+<a href="https://pressmeow.github.io/blog/"><img src="assets/notes.svg?v=8d1f3fd6" width="100%" alt="Latest notes on my blog"/></a>
 
-<a id="island" href="#island"><img src="assets/island.svg?v=ba30a0c0" width="100%" alt="My island"/></a>
+<a id="island" href="#island"><img src="assets/island.svg?v=d5965d41" width="100%" alt="My island"/></a>
 
-<a id="pet" href="#pet"><img src="assets/pet.svg?v=1a30bb23" width="100%" alt="iyyko the pet, fed by my commits and by you"/></a>
+<a id="pet" href="#pet"><img src="assets/pet.svg?v=c7cfc79b" width="100%" alt="iyyko the pet, fed by my commits and by you"/></a>
 <p align="center">
 <a href="https://github.com/pressmeow/pressmeow/issues/new?title=pet%3A%20feed%20%F0%9F%90%9F&body=Just%20press%20**Create**%20%E2%80%94%20a%20bot%20does%20the%20rest%20and%20closes%20this%20issue.%20%F0%9F%90%B1"><img src="assets/btn-feed.svg?v=7d36c4ff" width="190" alt="Feed iyyko"/></a>
 <a href="https://github.com/pressmeow/pressmeow/issues/new?title=pet%3A%20play%20%F0%9F%A7%B6&body=Just%20press%20**Create**%20%E2%80%94%20a%20bot%20does%20the%20rest%20and%20closes%20this%20issue.%20%F0%9F%90%B1"><img src="assets/btn-play.svg?v=5192d851" width="190" alt="Play with iyyko"/></a>
@@ -37,8 +37,8 @@
 
 <a href="https://www.iyyko.com/play"><img src="assets/arcade.svg?v=37891207" width="100%" alt="Arcade: play games on iyyko.com"/></a>
 
-<a id="trophies" href="#trophies"><img src="assets/trophies.svg?v=5bd37d07" width="100%" alt="Trophies"/></a>
+<a id="trophies" href="#trophies"><img src="assets/trophies.svg?v=f248011f" width="100%" alt="Trophies"/></a>
 
-<a id="snake" href="#snake"><img src="assets/snake.svg?v=fe10dd5f" width="100%" alt="A snake eating my contribution graph"/></a>
+<a id="snake" href="#snake"><img src="assets/snake.svg?v=4452836c" width="100%" alt="A snake eating my contribution graph"/></a>
 
 <a id="bye" href="#bye"><img src="assets/footer.svg?v=2a9357b6" width="100%" alt="Thanks for stopping by!"/></a>
