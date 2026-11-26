@@ -14,18 +14,18 @@
 <a href="https://goldenhour-timezones.vercel.app"><img src="assets/chip-ourhour-site.svg?v=742df43d" width="12%" alt="Ourhour site"/></a><a href="https://testflight.apple.com/join/1Yh1QZCH"><img src="assets/chip-ourhour-beta.svg?v=4dd2db63" width="12%" alt="Ourhour ios beta"/></a>
 </p>
 
-<a href="https://pressmeow.github.io/blog/"><img src="assets/notes.svg?v=8d1f3fd6" width="100%" alt="Latest notes on my blog"/></a>
+<a href="https://pressmeow.github.io/blog/"><img src="assets/notes.svg?v=e3ac6f7f" width="100%" alt="Latest notes on my blog"/></a>
 
-<a id="island" href="#island"><img src="assets/island.svg?v=e763cac5" width="100%" alt="My island"/></a>
+<a id="island" href="#island"><img src="assets/island.svg?v=363c0446" width="100%" alt="My island"/></a>
 
-<a id="pet" href="#pet"><img src="assets/pet.svg?v=cf9f008e" width="100%" alt="iyyko the pet, fed by my commits and by you"/></a>
+<a id="pet" href="#pet"><img src="assets/pet.svg?v=d0d39a79" width="100%" alt="iyyko the pet, fed by my commits and by you"/></a>
 <p align="center">
 <a href="https://github.com/pressmeow/pressmeow/issues/new?title=pet%3A%20feed%20%F0%9F%90%9F&body=Just%20press%20**Create**%20%E2%80%94%20a%20bot%20does%20the%20rest%20and%20closes%20this%20issue.%20%F0%9F%90%B1"><img src="assets/btn-feed.svg?v=7d36c4ff" width="190" alt="Feed iyyko"/></a>
 <a href="https://github.com/pressmeow/pressmeow/issues/new?title=pet%3A%20play%20%F0%9F%A7%B6&body=Just%20press%20**Create**%20%E2%80%94%20a%20bot%20does%20the%20rest%20and%20closes%20this%20issue.%20%F0%9F%90%B1"><img src="assets/btn-play.svg?v=5192d851" width="190" alt="Play with iyyko"/></a>
 <a href="https://github.com/pressmeow/pressmeow/issues/new?title=pet%3A%20pat%20%E2%9C%8B&body=Just%20press%20**Create**%20%E2%80%94%20a%20bot%20does%20the%20rest%20and%20closes%20this%20issue.%20%F0%9F%90%B1"><img src="assets/btn-pat.svg?v=2135a1e5" width="190" alt="Pet iyyko"/></a>
 </p>
 
-<a id="fortune" href="#fortune"><img src="assets/fortune.svg?v=013f4915" width="100%" alt="Today's fortune from iyyko"/></a>
+<a id="fortune" href="#fortune"><img src="assets/fortune.svg?v=3bfacc5a" width="100%" alt="Today's fortune from iyyko"/></a>
 
 <a id="ttt" href="#ttt"><img src="assets/ttt/start.svg?v=d4fb8e82" width="100%" alt="YOU ARE X. TAP A SQUARE!"/></a>
 <p align="center">
